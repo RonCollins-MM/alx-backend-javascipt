@@ -1,3 +1,3 @@
-# ES6 Basics
+# JavaScript Backend
 
-Learning about basic JS.
+Learning about the backend of JS.
